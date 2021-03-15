@@ -77,5 +77,8 @@
 		"test": "mocha --require ./test/bootstrap.js --recursive -w"
 	},
 	"author": "",
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^4.2.3"
+	}
 }
